@@ -1,6 +1,6 @@
 
 # Rick and Morty VUE Api
-<a href="https://rick-and-morty-vue.surge.sh)">LINK DEPLOY</a>
+<a href="https://rick-and-morty-vue.surge.sh">LINK DEPLOY</a>
 
 Pequena App VUE frontend para exibicao de personagems da serie Rick and Morty a partir de api [The Rick and Morty Api]("https://rickandmortyapi.com)
 
